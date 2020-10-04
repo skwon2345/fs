@@ -26,7 +26,7 @@ SECRET_KEY = 'iuw8mp&*jwdpf7e^3teeu8ngh@o#a9yypa^1)428w568&up9ea'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mnist-env.eba-dfnrsz2b.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
